@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "electron .",
+    "build": "electron-packager ./ AhmadAwais.com --platform=darwin --arch=x64 --version=0.36.7 --ignore=node_modules/electron-*"
   },
   "author": "ahmadawais",
   "license": "GPL-2.0",
