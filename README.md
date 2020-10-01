@@ -7,7 +7,7 @@ AhmadAwais.com app with electron.
 ### 🙌 [WPCOUPLE PARTNERS](https://WPCouple.com/partners):
 This open source project is maintained by the help of awesome businesses listed below. What? [Read more about it →](https://WPCouple.com/partners)
 
-<table width='100%'>
+<table width='80%'>
 	<tr>
 		<td width='333.33'><a target='_blank' href='https://www.gravityforms.com/?utm_source=WPCouple&utm_medium=Partner'><img src='http://on.ahmda.ws/mtrE/c' /></a></td>
 		<td width='333.33'><a target='_blank' href='https://kinsta.com/?utm_source=WPCouple&utm_medium=Partner'><img src='http://on.ahmda.ws/mu5O/c' /></a></td>
